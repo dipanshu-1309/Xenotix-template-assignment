@@ -1,5 +1,4 @@
 import React from 'react'
-import google from '../assets/images/google.png'
 
 const Frame43 = () => {
   return (
@@ -17,7 +16,7 @@ const Frame43 = () => {
       <div className='rectangle-52'>
       </div>
 
-       <img src={google} alt="google" className="google"></img>
+       <img src='/assets/images/google.png' alt="google" className="google"></img>
        <div className='google-ads'>Google Ads</div>
        <div className='reviews-initial'> 4.8 </div>
        <div className='reviews-final'>Reviews</div>

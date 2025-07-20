@@ -266,7 +266,6 @@ height: 31px;
 left: 24px;
 top: 29px;
 
-background: url(a7275dfa512247fe869d74628dbdb1f5.png);
 
 }
 
@@ -317,4 +316,16 @@ font-size: 10px;
 line-height: 12px;
 
 color: #A9A9A9;
+}
+
+.ellipse-6{
+position: absolute;
+width: 1237px;
+height: 1011px;
+left: 192px;
+top: 196px;
+
+background: linear-gradient(180deg, #C0C5F8 15.38%, #FFFFFF 100%);
+filter: blur(200px);
+
 }

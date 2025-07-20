@@ -1,13 +1,11 @@
 import React from 'react'
 import styles from "./Group157.module.css"
-import person1 from '../assets/images/person1.jpg'
-import person2 from '../assets/images/person1.jpg'
 
 const Group157 = () => {
   return (
 <div className={styles['group-157']}>
   <div className={styles['frame-32']}>
-  <img className={styles['person-1']} src={person1} alt="person1" />
+  <img className={styles['person-1']} src='/assets/images/person1.jpg' alt="person1" />
   <div className={styles['xenotix-tech']}>Xenotix Tech</div>
   <div className={styles['long-text']}>Posting but getting zero traction?<br></br>→ Social Media Marketing</div>
   </div>
@@ -15,7 +13,7 @@ const Group157 = () => {
   <div className={styles['frame-33']}>
     <div className={styles['ellipse-53']}></div>
     <div className={styles['text-1']}>Xenotix Tech</div>
-    <img className={styles['person-2']} src={person2} alt="person2" />
+    <img className={styles['person-2']} src='/assets/images/person1.jpg' alt="person2" />
     <div className={styles['text-2']}>Start Online Business ?</div>
   </div>
   <div className={styles['frame-34']}>

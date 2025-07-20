@@ -1,11 +1,10 @@
 import React from 'react'
-import person1 from '../assets/images/person1.jpg'
 import styles from './Group158.module.css'
 const Group158 = () => {
   return (
     <div className={styles['group-158']}>
         <div className={styles['group-158-1']}>
-        <img className={styles['person-1']} src={person1} alt="person1" />
+        <img className={styles['person-1']} src='/assets/images/person1.jpg' alt="person1" />
       </div>
       <div style={{ position: "relative",zIndex: "1"}}>
         <div className={styles['textContent-1']}>Xenotix Tech</div>
@@ -15,7 +14,7 @@ const Group158 = () => {
       <div className={styles['container']}>
       <div className={styles['group-158-2']}>
         <div className={styles['ellipse-53']}></div>
-        <img className={styles['person-2']} src={person1} alt="person1" />
+        <img className={styles['person-2']} src='/assets/images/person1.jpg' alt="person1" />
         <div className={styles['textContent-3']}>Xenotix Tech</div>
         <div className={styles['textContent-4']}>Quit Dreaming. Start Building</div>
       </div>

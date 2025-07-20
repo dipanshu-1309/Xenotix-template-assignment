@@ -1,8 +1,7 @@
-import vectortwo from '../assets/images/Vector-2.png'
 const Vectortwo = () => {
   return (
     <div>
-      <img src={vectortwo} alt="Vector-2" className="Vectortwo"></img>
+      <img src='/assets/images/Vector-2.png' alt="Vector-2" className="Vectortwo"></img>
     </div>
   )
 }
