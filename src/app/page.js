@@ -32,7 +32,7 @@ export default function Home() {
         <Frame32 />
         <div className="Text1">Xenotix Tech</div>
         <div className="Text2">Got a startup Idea !</div>
-        <div className="Text3">Let's Turn It Into Realityyy.</div>
+        <div className="Text3">Let's Turn It Into Reality.</div>
         <img src={image0} alt="image0" className="image0"></img>
         <Vector />
         <Vectortwo />
