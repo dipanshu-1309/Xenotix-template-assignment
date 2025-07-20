@@ -1,0 +1,45 @@
+.frame-47{
+
+position: absolute;
+width: 97px;
+height: 25px;
+left: 299px;
+top: 132px;
+
+background: linear-gradient(90deg, #B39EFE 0%, #FFFFFF 100%);
+box-shadow: 0px 2px 4px #B39EFE;
+border-radius: 20px;}
+
+
+.Pracpoint{
+
+position: absolute;
+width: 50px;
+height: 12px;
+left: 34px;
+top: 7px;
+
+font-family: 'Kaisei Tokumin';
+font-style: normal;
+font-weight: 700;
+font-size: 8px;
+line-height: 12px;
+/* identical to box height */
+text-align: center;
+
+color: #000000;
+
+text-shadow: 0px 0px 4px rgba(196, 152, 152, 0.25);
+}
+
+
+.image-5{
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 11px;
+top: 4px;
+
+background: url(image.png);
+}

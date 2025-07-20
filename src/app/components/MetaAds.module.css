@@ -1,0 +1,157 @@
+.meta-div{
+
+position: absolute;
+width: 257px;
+height: 188px;
+left: 1330.34px;
+top: 603.37px;
+z-index: 1;
+background: linear-gradient(276.17deg, #C0C5F8 5.93%, #FFFFFF 94.07%);
+border-radius: 20px;
+transform: rotate(-28.1deg);
+
+}
+
+.rectangle-52{
+
+position: absolute;
+width: 47px;
+height: 47px;
+left: 15.24px;
+top: 14.84px;
+
+background: rgba(217, 217, 217, 0.35);
+border-radius: 10px;
+}
+
+.fb-logo{
+position: absolute;
+width: 31px;
+height: 31px;
+left: 23.24px;
+top: 22.84px;
+
+}
+
+.rectangle-54{
+
+position: absolute;
+width: 47px;
+height: 47px;
+left: 72.66px;
+top: 14.84px;
+
+background: rgba(217, 217, 217, 0.35);
+border-radius: 10px;
+}
+
+.insta-logo{
+position: absolute;
+width: 31px;
+height: 31px;
+left: 80.66px;
+top: 22.63px;
+
+
+}
+
+.rectangle-53{
+
+position: absolute;
+width: 70px;
+height: 21px;
+left: 135.66px;
+top: 27.84px;
+background: rgba(217, 217, 217, 0.35);
+
+border-radius: 10px;
+
+
+}
+
+.frame-41{
+position: absolute;
+width: 11px;
+height: 11px;
+left: 145.66px;
+top: 32.53px;
+
+background: #79D465;
+border-radius: 50px;
+
+}
+
+.vector-container{
+position: absolute;
+width: 8px;
+height: 8px;
+left: 2.24px;
+top: 1.35px;
+
+}
+
+.vector-tick{
+position: absolute;
+left: 30.03%;
+right: 8.14%;
+top: 33.71%;
+bottom: 22.2%;
+
+background: rgba(255, 255, 255, 0.54);
+
+
+}
+
+.verified{
+  /* Verified */
+
+position: absolute;
+width: 30px;
+height: 10px;
+left: 14.25px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+color: #000000;
+}
+
+.meta-ads{
+
+position: absolute;
+width: 135.41px;
+height: 66px;
+left: 15.24px;
+top: 75.54px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 33px;
+/* or 82% */
+letter-spacing: 0.12em;
+
+color: #000000;
+
+
+}
+
+.text{
+position: absolute;
+width: 106px;
+height: 12px;
+left: 15.24px;
+top: 153.26px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+
+color: #A9A9A9;
+white-space: nowrap;
+
+}

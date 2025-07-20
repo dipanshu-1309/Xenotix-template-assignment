@@ -1,0 +1,120 @@
+.frame-29{
+z-index: 1;
+position: absolute;
+width: 237px;
+height: 87px;
+left: 130px;
+top: 581px;
+
+background: #ffffff;
+border-radius: 20px;
+
+}
+
+.blockchain{
+position: absolute;
+width: 84px;
+height: 19px;
+left: 19px;
+top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+}
+
+.ellipse-52{
+position: absolute;
+width: 23px;
+height: 23px;
+left: 20px;
+top: 42px;
+}
+
+.ET-logo{
+position: absolute;
+width: 11px;
+height: 19px;
+left: 26px;
+top: 44px;
+
+background: url(Ethereum_logo_2014.svg.png);
+
+}
+
+.ellipse-52one{
+position: absolute;
+width: 23px;
+height: 23px;
+left: 68px;
+top: 42px;
+}
+
+.ET-logoone{
+position: absolute;
+width: 14px;
+height: 14px;
+left: 72.03px;
+top: 46px;
+background: url(08461e7518fb41a79835f6d833afb763.png);
+}
+
+.ellipse-52two{
+position: absolute;
+width: 23px;
+height: 23px;
+left: 110px;
+top: 42px;
+}
+
+.ET-logotwo{
+position: absolute;
+width: 19px;
+height: 14px;
+left: 112.03px;
+top: 47px;
+
+background: url(7fbb10ac2d574812b77c020789218097.png);
+
+}
+
+.ellipse-52three{
+position: absolute;
+width: 23px;
+height: 23px;
+left: 151.97px;
+top: 42px;
+}
+
+.ET-logothree{
+position: absolute;
+width: 25.33px;
+height: 24px;
+left: 151px;
+top: 41px;
+
+background: url(0404664f503a4d8ab580e80d9a9c7e94.png);
+}
+
+.ellipse-52four{
+position: absolute;
+width: 23px;
+height: 23px;
+left: 195.97px;
+top: 42px;
+}
+
+.ET-logofour{
+position: absolute;
+width: 16.97px;
+height: 16px;
+left: 199px;
+top: 45px;
+
+background: url(a67fabec03fb4daea227369e20965da8.png);
+
+}

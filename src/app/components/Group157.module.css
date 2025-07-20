@@ -1,0 +1,249 @@
+.group-157{
+position: absolute;
+width: 201.27px;
+height: 102.31px;
+left: 1200.3px;
+top: 328.13px;
+}
+
+
+.frame-32{
+/* Frame 32 */
+z-index: 2;
+position: absolute;
+width: 198px;
+height: 54px;
+
+background: #FFFFFF;
+border-radius: 15px;
+}
+
+.person-1{
+
+position: absolute;
+width: 28.84px;
+height: 28.8px;
+left: 13.5px;
+top: 11.76px;
+
+background: url(istockphoto-1682296067-612x612);
+border-radius: 5px;
+transform: rotate(-1.18deg);
+}
+
+.xenotix-tech{
+position: absolute;
+width: 56px;
+height: 11px;
+left: 52px;
+top: 11.95px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+color: #A9A9A9;
+}
+
+.long-text{
+position: absolute;
+width: 128px;
+height: 20px;
+left: 52px;
+top: 22.95px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 8px;
+line-height: 10px;
+
+color: #000000;
+}
+
+.frame-33{
+/* Frame 33 */
+z-index: 1;
+position: absolute;
+width: 178px;
+height: 54px;
+left: 20px;
+top: 25.7px;
+
+background: #FFFFFF;
+border-radius: 15px;
+transform: rotate(-9.68deg);
+overflow: hidden;
+}
+
+
+.ellipse-53{
+/* Ellipse 53 */
+
+position: absolute;
+width: 147px;
+height: 158px;
+left: -27px;
+top: -4.39px;
+
+background: #A25AFF;
+filter: blur(100px);
+transform: rotate(-9.68deg);
+}
+
+.person-2{
+/* Rectangle 51 */
+
+position: absolute;
+width: 28.84px;
+height: 28.8px;
+left: 7.34px;
+top: 18.6px;
+
+background: url(istockphoto-1682296067-612x612);
+border-radius: 5px;
+}
+
+.text-2{
+/* Start Online Business ? */
+
+position: absolute;
+width: 100px;
+height: 11px;
+left: 43.82px;
+top: 33.8px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+
+color: #000000;
+
+}
+
+.text-1{
+/* Xenotix Tech */
+
+position: absolute;
+width: 56px;
+height: 11px;
+left: 42.82px;
+top: 22.32px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 11px;
+/* identical to box height */
+
+color: #A9A9A9;
+}
+
+.frame-34{
+/* Frame 34 */
+z-index: 0;
+position: absolute;
+width: 137px;
+height: 54px;
+left: 57.76px;
+top: 41px;
+
+background: #FFFFFF;
+border-radius: 20px;
+transform: rotate(6.26deg);
+overflow: hidden;
+}
+
+
+.ellipse-55
+{
+/* Ellipse 53 */
+
+position: absolute;
+width: 147px;
+height: 158px;
+left: -34.67px;
+top: -16.64px;
+
+background: #A25AFF;
+filter: blur(100px);
+transform: rotate(6.26deg);
+}
+
+.ellipse-54{
+/* Ellipse 54 */
+
+position: absolute;
+width: 147px;
+height: 158px;
+left: 104.12px;
+top: 1.92px;
+
+background: #3B63E6;
+filter: blur(100px);
+transform: rotate(-175.2deg);
+}
+
+.group-156{
+/* Group 156 */
+
+position: absolute;
+width: 214px;
+height: 34px;
+left: -14.34px;
+top: 31.39px;
+}
+
+.rectangle-47{
+/* Rectangle 47 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: -2.23px;
+top: 32.37px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+}
+
+.rectangle-48{
+/* Rectangle 48 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: 42.39px;
+top: 43px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+}
+
+.rectangle-49{
+/* Rectangle 49 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: -13.47px;
+top: 52.26px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+transform: rotate(6.26deg);
+}
+
+
+.rectangle-50{
+/* Rectangle 50 */
+position: absolute;
+width: 157px;
+height: 5px;
+left: 38.34px;
+top: 65.99px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+transform: rotate(6.26deg);
+}

@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+.frame-15{
+
+position: absolute;
+width: 250px;
+height: 149px;
+left: 1190px;
+top: 765px;
+
+background: #FFFFFF;
+border-radius: 20px;
+transform: rotate(10.53deg);
+z-index: 0.8;
+}
+
+.sm-marketing{
+
+position: absolute;
+width: 189px;
+height: 17px;
+left: 20px;
+top: 14.72px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 17px;
+
+color: #000000;
+}
+
+.rectangle-41{
+position: absolute;
+width: 49px;
+height: 2px;
+left: 20px;
+top: 45.25px;
+
+background: #376F95;
+
+}
+
+.group-148{
+position: absolute;
+width: 193px;
+height: 70.27px;
+left: 20px;
+top: 50px;
+background-color: #ffffff;
+}
+
+.long-text{
+position: absolute;
+width: 193px;
+height: 33px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 7px;
+line-height: 10px;
+
+color: #000000;
+}
+
+.box-1{
+position: absolute;
+width: 29px;
+height: 13px;
+
+top: 40.79px;
+
+background: rgba(201, 201, 201, 0.36);
+border-radius: 2px;
+
+}
+
+.vector-7{
+position: absolute;
+height: 6.75px;
+left: 1.1px;
+
+top: 3.34px;
+
+transform: rotate(-9.9deg);
+
+}
+
+.box-text{
+position: absolute;
+width: 17px;
+height: 8px;
+left: 9.5px;
+top: 2.7px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 5px;
+line-height: 8px;
+
+color: #000000;
+}
+
+.rectangle-43{
+position: absolute;
+width: 49px;
+height: 14.15px;
+left: 52.54px;
+top: 90px;
+
+background: rgba(201, 201, 201, 0.36);
+border-radius: 2px;
+
+
+}
+
+ .rectangle-44 {
+
+position: absolute;
+width: 49.19px;
+height: 14.15px;
+left: 105.65px;
+top: 90px;
+
+background: rgba(201, 201, 201, 0.36);
+border-radius: 2px;
+
+ }
+ 
+ .rectangle-45 {
+ 
+/* Rectangle 45 */
+
+position: absolute;
+width: 32px;
+height: 14.15px;
+left: 19.19px;
+top: 107.5px;
+
+background: rgba(201, 201, 201, 0.36);
+border-radius: 2px;
+
+
+ }
+
+ .rectangle-46{
+  /* Rectangle 46 */
+
+position: absolute;
+width: 56.37px;
+height: 14.15px;
+left: 55.58px;
+top: 107.5px;
+
+background: rgba(201, 201, 201, 0.36);
+border-radius: 2px;
+
+
+ }
+
+.circle-1{
+z-index: 0.8;
+position: absolute;
+width: 27px;
+height: 27px;
+left: 180.78px;
+top: 87px;
+background: linear-gradient(180deg, #42A5F5 2.15%, #A25AFF 80.61%);
+transform: rotate(10.53deg);
+border-radius: 50%;
+ }
+
+.circle-2{
+z-index: 1;
+position: absolute;
+width: 18px;
+height: 18px;
+left: 191.73px;
+top: 106.97px;
+background: linear-gradient(180deg, #42A5F5 2.15%, #A25AFF 80.61%);
+transform: rotate(10.53deg);
+border-radius: 50%;
+}
+
+.shape-1{
+position: absolute;
+width: 60px;
+height: auto;
+left: 190.6px;
+top:-35.12px;
+
+
+}

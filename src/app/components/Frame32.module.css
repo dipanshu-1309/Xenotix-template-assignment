@@ -1,0 +1,99 @@
+.frame-32{
+position: absolute;
+width: 198px;
+height: 98px;
+left: 1003px;
+top: 487px;
+
+background: #FFFFFF;
+border-radius: 20px;
+overflow: hidden;
+}
+
+
+.ellipse-53{
+/* Ellipse 53 */
+
+position: absolute;
+width: 147px;
+height: 158px;
+left: -25px;
+top: -14px;
+
+background: #A25AFF;
+filter: blur(100px);
+}
+
+.ellipse-54{
+/* Ellipse 54 */
+
+position: absolute;
+width: 147px;
+height: 158px;
+left: 111px;
+top: -14px;
+
+background: #3B63E6;
+filter: blur(100px);
+transform: rotate(178.54deg);
+}
+
+
+.group-156{
+/* Group 156 */
+
+position: absolute;
+width: 214px;
+height: 34px;
+left: -13px;
+top: 33px;
+
+}
+
+.rectangle-47{
+/* Rectangle 47 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: -4px;
+top: 33px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+}
+
+.rectangle-48{
+/* Rectangle 48 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: 44px;
+top: 43px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+}
+
+.rectangle-49{
+/* Rectangle 49 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: -13px;
+top: 54px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+}
+
+.rectangle-50{
+/* Rectangle 50 */
+
+position: absolute;
+width: 157px;
+height: 5px;
+left: 40px;
+top: 62px;
+
+background: linear-gradient(90deg, rgba(217, 199, 254, 0.5) 11.54%, rgba(214, 214, 214, 0.5) 62.5%, rgba(191, 198, 248, 0.5) 91.35%);
+}
