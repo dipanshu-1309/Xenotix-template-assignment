@@ -1,18 +1,9 @@
-import React from 'react'
+import styles from "./Frame43.module.css"
+
 
 const Frame43 = () => {
   return (
-    <div style={{
-          position: "absolute",
-          width: "237px",
-          height: "87px",
-          left: "19px",
-          top: "32px",
-          background: "#ffffffff",
-          borderRadius: "20px",
-          zIndex: '1',
-    
-                }}>
+    <div className={styles['div-1']}>
       <div className='rectangle-52'>
       </div>
 

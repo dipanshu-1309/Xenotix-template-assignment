@@ -1,11 +1,11 @@
-import React from 'react';
-import styles from './Frame10.module.css';
+
 import Frame47 from './Frame47';
+import styles from './Frame10.module.css';
 
 const Frame10 = () => {
   return (
-    <div className={styles['frame-10']}>
-      <div style={{ position: 'relative' }}>
+    <div className={styles["frame-10"]}>
+      <div className={styles["div-top"]} >
         <div className={styles['text-10-1']}>Curious About IoT..?</div>
         <div className={styles['text-10-2']}>Why Not Create It?</div>
 

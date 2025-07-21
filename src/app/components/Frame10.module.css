@@ -7,6 +7,10 @@ border-radius: 20px;
 overflow: hidden;
 }
 
+.div-top{
+  position: relative;
+}
+
 .text-10-1{
 position: absolute;
 width: 351px;
@@ -401,5 +405,28 @@ position: absolute;
 width: 58.54px;
 height: 178.38px;
 left: 55.07px;
+
+}
+
+@media (max-width: 770px){
+.frame-10{
+  background: rgba(255, 255, 255, 0);
+}
+
+.vector-4, .vector-5, .vector-6, .image-8, .image-9, .image-10, .image-11, .rectangle-93, .rectangle-94{
+  display: none;}
+
+  .text-10-1{
+    font-size: 30px;
+    font-weight: 500;
+    left: 215px;
+  }
+  
+  .text-10-2{
+    font-size: 20px;
+    font-weight: 500;
+    left: 270px
+
+}
 
 }

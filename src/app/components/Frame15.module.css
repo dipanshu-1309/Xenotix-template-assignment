@@ -194,3 +194,11 @@ top:-35.12px;
 
 
 }
+
+@media (max-width: 770px){
+
+.frame-15{
+  left:auto;
+  right: 65.9px;
+}
+}

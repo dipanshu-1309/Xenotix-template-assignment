@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from "./Frame31.module.css"
 
 const Frame31 = () => {

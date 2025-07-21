@@ -1,4 +1,3 @@
-import React from 'react'
 import styles from "./Group157.module.css"
 
 const Group157 = () => {

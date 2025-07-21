@@ -1,4 +1,3 @@
-import React from 'react';
 import styles from './Uiux.module.css';
 
 const Uiux = () => {

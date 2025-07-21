@@ -154,3 +154,11 @@ color: #A9A9A9;
 white-space: nowrap;
 
 }
+
+@media (max-width: 770px){
+
+.meta-div{
+  left:auto;
+  right: -85px;
+}
+}

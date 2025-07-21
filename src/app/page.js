@@ -1,6 +1,5 @@
 
 import Frame10 from "./components/Frame10"
-import Vector from './components/Vector'
 import Vectorthree from "./components/Vectorthree"
 import Vectortwo from "./components/Vectortwo"
 
@@ -38,7 +37,9 @@ export default function Home() {
         <div className="Text1">Xenotix Tech</div>
         <div className="Text2">Got a startup Idea !</div>
         <div className="Text3">Let&apos;s Turn It Into Reality.</div>
-        <Vector />
+        <div>
+      <img src='/assets/images/Vector.png' alt="Vector" className="vector"></img>
+    </div>
         <div className="middle-block-1">
         <img src="/assets/images/2944870.png" alt="image1" className="image1" />
         </div>

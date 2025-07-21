@@ -87,3 +87,11 @@ background: rgba(100, 95, 181, 0.57);
 filter: blur(40px);
 
 }
+
+@media (max-width: 770px){
+
+.frame-43-a{
+  left:auto;
+  right:160.5px
+}
+}

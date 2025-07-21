@@ -1,0 +1,18 @@
+.div-1{
+  position: absolute;
+          width: 237px;
+          height: 87px;
+          left: 19px;
+          top: 32px;
+          background-color: #ffffffff;
+          border-radius: 20px;
+          z-index: 1;
+}
+
+@media (max-width: 770px){
+
+.div-1{
+  left:auto;
+  right:160.5px
+}
+}
