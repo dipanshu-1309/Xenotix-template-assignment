@@ -26,7 +26,7 @@ export default function Home() {
       <Frame31 />
       <div className="Text1">Xenotix Tech</div>
       <div className="Text2">Got a startup Idea !</div>
-      <div className="Text3">Let's Turn It Into Reality.</div>
+      <div className="Text3">Let&apos;s Turn It Into Reality.</div>
 
       <img src="/assets/images/decoration.png" alt="image0" className="image0" />
       
