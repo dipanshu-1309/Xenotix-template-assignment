@@ -2,37 +2,82 @@
 @import url('https://fonts.googleapis.com/css2?family=Kaisei+Tokumin&display=swap');
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
 
-body{
-  margin: 0px;
-}
 
-.maindiv{
-
+.maindiv {
   position: relative;
-  background-color: rgb(255, 255, 255);
-  width: 1510px;
+  background-color: white;
   height: 1014px;
-  background: rgb(255, 255, 255);
   z-index: -2;
   overflow: hidden;
 }
 
-
-
-.div-1, .div-2, .div-3, .div-4, .div-5{
+/* Default absolute desktop layout */
+.div-2 {
   position: absolute;
-  width: 100%;
-  height: 100%;
-} 
+  width: 500px;
+  height: 500px;
+  top: 15.4%;
+  left: 28.5%;
+}
 
+.div-3 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  top: 54.7%;
+  left: 0;
+}
+
+.div-4 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  bottom: -1%;
+  left: 25.52%;
+}
+
+.div-5 {
+  position: absolute;
+  width: 400px;
+  height: 500px;
+  top: 55.6%;
+  right: 0;
+}
+
+/* Mobile layout below 770px */
+@media (max-width: 770px) {
+  .maindiv {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    height: auto;
+    gap: 16px;
+    transition: all 0.3s ease-in-out;
+  }
+
+  .div-1 {
+    display: none;
+  }
+
+    .maindiv .div-2,
+  .maindiv .div-3,
+  .maindiv .div-4,
+  .maindiv .div-5 {
+    position: relative;
+    width: 100%;
+    height: 500px;
+  }
+
+ 
+}
 
 
 .Text1{
 position: absolute;
 width: 677px;
 height: 117px;
-left: 396px;
-top: 145px;
+left: -33px;
+top: -11px;
 font-family: 'Kaisei Tokumin';
 font-style: normal;
 font-weight: 500;
@@ -46,9 +91,8 @@ color: #000000;
 position: absolute;
 width: 677px;
 height: 117px;
-left: 399px;
-top: 180px;
-
+top: 24px;
+left: -30px;
 font-family: 'Kaisei Tokumin';
 font-style: normal;
 font-weight: 700;
@@ -65,8 +109,8 @@ color: #000000;
 position: absolute;
 width: 677px;
 height: 64px;
-left: 389px;
-top: 279px;
+top: 123px;
+left: -40px;
 font-family: 'Kaisei Tokumin';
 font-style: normal;
 font-weight: 700;
@@ -80,8 +124,8 @@ color: #000000;
 position: absolute;
 width: 56px;
 height: 33px;
-left: calc(50% - 56px/2 + 306px);
-top: calc(50% - 33px/2 - 311.5px);
+top: 23px;
+left: 604px;
 
 }
 
@@ -120,8 +164,8 @@ z-index: -1;
 position: absolute;
 width: 50px;
 height: 50px;
-left: 445.11px;
-top: 421.11px;
+top: 265px;
+left: 16px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -142,8 +186,8 @@ transform: rotate(-35.73deg);
 position: absolute;
 width: 50px;
 height: 50px;
-left: 527.73px;
-top: 371.73px;
+top: 216px;
+left: 99px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -164,8 +208,8 @@ transform: rotate(30.75deg);
 position: absolute;
 width: 50px;
 height: 50px;
-left: 612.42px;
-top: 427.42px;
+top: 271px;
+left: 184px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -185,10 +229,10 @@ transform: rotate(-26.76deg);
 .middle-block-4{/* Frame 19 */
 
 position: absolute;
+width: 50px;
 height: 50px;
-left: 48.35%;
-right: 48.35%;
-top: calc(50% - 50px/2 - 79px);
+top: 247px;
+left: 301px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -208,10 +252,10 @@ transform: rotate(22.01deg);
 .middle-block-5{/* Frame 20 */
 
 position: absolute;
-left: 56.15%;
-right: 40.53%;
-top: 43.08%;
-bottom: 51.85%;
+top: 281px;
+left: 418px;
+width: 50px;
+height: 50px;
 display: flex;
 justify-content: center;
 align-items: center;
@@ -231,10 +275,10 @@ transform: rotate(-24.76deg);
 .middle-block-6{/* Frame 20 */
 
 position: absolute;
-left: 63.29%;
-right: 33.38%;
-top: 40.57%;
-bottom: 54.37%;
+top: 255px;
+left: 527px;
+width: 50px;
+height: 50px;
 display: flex;
 justify-content: center;
 align-items: center;

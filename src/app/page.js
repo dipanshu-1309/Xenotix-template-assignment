@@ -1,4 +1,3 @@
-import "./globals.css"
 
 import Frame10 from "./components/Frame10"
 import Vector from './components/Vector'
@@ -17,6 +16,7 @@ import Frame30 from "./components/Frame30"
 import Frame31 from "./components/Frame31"
 import Frame32 from "./components/Frame32"
 import Group157 from "./components/Group157"
+import "./globals.css"
 
 export default function Home() {
   return (
@@ -61,34 +61,21 @@ export default function Home() {
 
       <div className="div-3">
         <Uiux />
-        <Frame29 />
         <Frame28 />
+        <Frame29 />
         <Frame30 />
       </div>
-
       <div className="div-4">
        <Frame10/>
       </div>
+      
+
       <div className="div-5">
        <Frame43 />
        <Frame43A />
        <MetaAds /> 
        <Frame15 /> 
       </div>
-      
-     
-      
-
-      
-
-      
-
-    
-
-      
-      
-      
-     
 
     </div>
   )
