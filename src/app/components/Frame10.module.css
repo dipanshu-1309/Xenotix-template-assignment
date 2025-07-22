@@ -63,9 +63,89 @@ top: 198px;
 
 background: #D9C7FE;
 border-radius: 20px;
+}
+
+
+.car{
+
+position: absolute;
+width: 92px;
+height: 92px;
+left: 2px;
+top: -11px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+transform: rotate(2.58deg);
 
 }
 
+.laptop{
+position: absolute;
+width: 70px;
+height: 60px;
+left: 15px;
+top: 5px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.wifi{
+position: absolute;
+width: 60px;
+height: 45px;
+left: 20px;
+top: 15px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.hand{
+  /* Illustration */
+
+position: absolute;
+width: 64px;
+height: 63px;
+left: 14px;
+top: 9px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+
+.robot{
+  /* Black and White Clean and Bold Milk Product Instagram Post (1) 1 */
+
+position: absolute;
+width: 62px;
+height: 62px;
+left: 19px;
+top: 10px;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.truck{
+position: absolute;
+width: 93.2px;
+height: 92px;
+left: -3px;
+top: -3px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+.robot2{
+position: absolute;
+width: 60px;
+height: 50px;
+left: 18px;
+top: 16px;
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+
+}
 .frame-65{
 position: absolute;
 width: 101px;

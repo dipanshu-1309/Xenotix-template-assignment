@@ -14,15 +14,42 @@ const Frame10 = () => {
           <img src="/assets/images/Vector 33.png" alt="vector33" className={styles['vector-33']} />
         </div>
 
-        <Frame47 />
+        <Frame47 /> 
 
-        <img src="/assets/images/Frame 60.jpg" alt="frame60" className={styles['frame-60']} />
-        <img src="/assets/images/Frame 63.png" alt="frame63" className={styles['frame-63']} />
+        <div className={styles['frame-63']}>
+          <img src="/assets/images/car.png" alt="car" className={styles['car']} />
+        </div>
+        <div className={styles['frame-60']}>
+          <img src="/assets/images/laptop.png" alt="alptop" className={styles['laptop']} />
+        </div>
+        <div className={styles['frame-65']}>
+          <img src="/assets/images/wifi.png" alt="wifi" className={styles['wifi']} />
+        </div>
+        <div className={styles['frame-66']}>
+          <img src="/assets/images/hand.png" alt="hand" className={styles['hand']} />
+        </div>
+        <div className={styles['frame-62']}>
+          <img src="/assets/images/robot.png" alt="robot" className={styles['robot']} />
+        </div>
+        <div className={styles['frame-64']}>
+             <img src="/assets/images/truck.png" alt="truck" className={styles['truck']} />
+        </div>
+        <div className={styles['frame-61']}>
+          <img src="/assets/images/robot2.png" alt="robot2" className={styles['robot2']} />
+        </div>
+
+
+
+
+
+
+{/* 
+        <img src="/assets/images/Frame 60.png" alt="frame" className={styles['frame-60']} />
         <img src="/assets/images/Frame 65.png" alt="frame65" className={styles['frame-65']} />
         <img src="/assets/images/Frame 66.png" alt="frame66" className={styles['frame-66']} />
         <img src="/assets/images/Frame 62.png" alt="frame62" className={styles['frame-62']} />
         <img src="/assets/images/Frame 64.png" alt="frame64" className={styles['frame-64']} />
-        <img src="/assets/images/Frame 61.png" alt="frame61" className={styles['frame-61']} />
+        <img src="/assets/images/Frame 61.png" alt="frame61" className={styles['frame-61']} /> */}
         <img src="/assets/images/image 10.png" alt="image10" className={styles['image-10']} />
         <img src="/assets/images/image 8.png" alt="image8" className={styles['image-8']} />
         <img src="/assets/images/image 9.png" alt="image9" className={styles['image-9']} />
